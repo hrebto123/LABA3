@@ -1,0 +1,18 @@
+* {
+	margin: 10px;
+	padding: 0;
+}
+
+.maxTemp {
+	margin-top: 40px;
+}
+
+a {
+	margin-left: 0;
+	font-size: 28px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
